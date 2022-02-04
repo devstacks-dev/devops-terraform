@@ -1,0 +1,1 @@
+pip3 uninstall devstacks_devops_terraform
